@@ -359,11 +359,11 @@ def process_files(file_paths):
 
 def main():
     svn_urls = [
-        "https://desoeap16.delta.corp/svn/IPB_22kW_auto_pag/trunk/20_Design/23_Software/2309_Design_Review/01_ComController DSPA",
-        "https://desoeap16.delta.corp/svn/IPB_22kW_auto_pag/trunk/20_Design/23_Software/2309_Design_Review/02_ObcController DSPB"
+        "https:link 1",
+        "https:link 2"
     ]
     
-    output_file_path = "D:/NoBackup/svn/IPB_22kW_auto_pag/2309_Design_Review/Review_Score_Overview.xlsx"
+    output_file_path = "D:output.xlsx"
     
     all_data = []
 
